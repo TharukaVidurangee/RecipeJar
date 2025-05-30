@@ -8,7 +8,7 @@ import Recipe from './pages/recipe/Recipe';
 import Search from './pages/search/Search';
 
 //navbar component
-import NavBar from './pages/components/NavBar';
+import NavBar from './components/NavBar';
 
 function App() {
   return (
